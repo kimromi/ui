@@ -1,0 +1,17 @@
+:root {
+  --color-background: #191919;
+  --color-text-primary: #f4f4f5;
+}
+
+html,
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+}
+
+/* ブラウザでのaタグのデフォルトスタイルを反映させない */
+a {
+  color: inherit;
+  text-decoration: inherit;
+}

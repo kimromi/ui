@@ -1,0 +1,21 @@
+.header {
+  position: sticky;
+  top: 0px;
+}
+
+.wrapper {
+  padding: 0 24px;
+  height: 66px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 16px;
+}
