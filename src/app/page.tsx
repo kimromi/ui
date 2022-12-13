@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
-export default function Home() {
-  return <Link href='/header'>/header</Link>;
+export default function Top() {
+  return <></>;
 }

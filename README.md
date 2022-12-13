@@ -6,6 +6,16 @@ Next.js の実装をしながら HTML や CSS の基礎を学んだりするリ�
 
 ### HTML
 
+#### [main](https://developer.mozilla.org/ja/docs/Web/HTML/Element/main)
+
+- 主要な内容部分に利用される
+  - see: <https://www.adobe.com/>
+
+#### [header](https://developer.mozilla.org/ja/docs/Web/HTML/Element/header)
+
+- 主にヘッダに利用するが、グローバルのヘッダだけでなく記事のヘッダ部分などにも利用する
+  - see: <https://techcrunch.com/>
+
 ### CSS
 
 #### CSS Modules

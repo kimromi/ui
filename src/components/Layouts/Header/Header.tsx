@@ -11,6 +11,10 @@ export const Header = () => (
         </Link>
         kimromi
       </div>
+
+      <div className={styles.componentsWrapper}>
+        <Link href='/header'>Header</Link>
+      </div>
     </div>
   </header>
 );

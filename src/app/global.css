@@ -1,13 +1,14 @@
 :root {
   --color-background: #191919;
-  --color-text-primary: #f4f4f5;
+  --color-primary: #f4f4f5;
+  --color-secondary: #27272a;
 }
 
 html,
 body {
   margin: 0;
   background-color: var(--color-background);
-  color: var(--color-text-primary);
+  color: var(--color-primary);
 }
 
 /* ブラウザでのaタグのデフォルトスタイルを反映させない */
